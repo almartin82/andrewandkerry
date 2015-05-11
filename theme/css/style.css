@@ -235,13 +235,13 @@ figure.floatcenter, .align-center {
 }
 
 .image-bg-fluid-height {
-	background: url('laraia_wedding.jpg') no-repeat center center scroll;
+	background: url('http://andrewandkerry.com/laraia_wedding.jpg') no-repeat center center scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('laraia_wedding.jpg') no-repeat center center scroll;
-    height: 450px;
+	background: url('http://andrewandkerry.com/laraia_wedding.jpg') no-repeat center center scroll;
+    height: 800px;
 }
 
 .img-center {
