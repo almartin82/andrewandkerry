@@ -633,7 +633,7 @@ nav.light.scrolled .line-3 {
 .header h1 {
   font-size: 120px;
   line-height: 128px;
-  font-weight: 100;
+  font-weight: 300;
   margin-bottom: 30px;
 }
 .header .btn {
@@ -892,7 +892,7 @@ nav.light.scrolled .line-3 {
 .details-2 h1 {
   font-size: 100px;
   line-height: 108px;
-  font-weight: 100;
+  font-weight: 300;
   margin-bottom: 30px;
 }
 @media all and (max-width: 1024px) {
@@ -1044,7 +1044,7 @@ nav.light.scrolled .line-3 {
 .gallery-2 h1 {
   font-size: 120px;
   color: #fff;
-  font-weight: 100;
+  font-weight: 300;
   line-height: 128px;
   cursor: pointer;
 }
