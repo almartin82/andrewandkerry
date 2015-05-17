@@ -673,8 +673,8 @@ nav.light.scrolled .line-3 {
 }
 @media all and (max-width: 767px) {
   .header h1 {
-    font-size: 80px;
-    line-height: 88px;
+    font-size: 64px;
+    line-height: 72px;
   }
 }
 .header-1 {
