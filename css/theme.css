@@ -668,7 +668,7 @@ nav.light.scrolled .line-3 {
   }
   to {
     transform: scale(1.3);
-    -webkit-transform: scale(1.3);
+    -webkit-transform: scale(1.3);	
   }
 }
 @media all and (max-width: 767px) {
