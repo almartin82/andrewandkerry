@@ -32,6 +32,9 @@
             <itunes:category text="Social Sciences" />
         </itunes:category>
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
+
+
+        <!--The Weeds | Human Challenge Trials added 4/29/2020-->
         <item>
             <title>A faster Covid-19 vaccine</title>
             <description>
@@ -55,5 +58,39 @@ Jane, Dara, and Matt discuss the possibility of "human challenge trials" to spee
             <guid isPermaLink="false"><![CDATA[ efcea770-00e2-11ea-a3c8-db73db8a9eab ]]></guid>
             <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP6275769702.mp3" length="0" type="audio/mpeg" />
         </item>
+
+
+    <!--JDV | Mailbag #5 added 4/29/2020-->
+	<item>
+	    <guid isPermaLink="false">tag:soundcloud,2010:tracks/778039522</guid>
+	    <title>S3E15 - Social Distancing from the Playoffs</title>
+	    <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+	    <link>https://soundcloud.com/joiedevivek/s3e15-social-distancing-from-the-playoffs</link>
+	    <itunes:duration>00:19:18</itunes:duration>
+	    <itunes:author>Joie de Vivek</itunes:author>
+	    <itunes:explicit>yes</itunes:explicit>
+	    <itunes:summary>The Kings' playoff push and season ends abruptly, leaving Dave and Mike with a lot more time on their hands.
+
+	If you’re in NYC, come see Dave perform every other Sunday at UCB SubCulture: https://subculture.ucbtheatre.com/
+
+	Visit the homepage: https://joiedevivek.neocities.org/
+	Follow the show on Instagram: http://www.instagram.com/joie.de.vivek 
+	Email the show at: joiedevivek@gmail.com
+
+	&quot;Fanfare for the 916&quot; theme music by Moacir P. de Sá Pereira &amp; Dovydas Stalmokas</itunes:summary>
+	    <itunes:subtitle>The Kings' playoff push and season ends abruptly,…</itunes:subtitle>
+	    <description>The Kings' playoff push and season ends abruptly, leaving Dave and Mike with a lot more time on their hands.
+
+	If you’re in NYC, come see Dave perform every other Sunday at UCB SubCulture: https://subculture.ucbtheatre.com/
+
+	Visit the homepage: https://joiedevivek.neocities.org/
+	Follow the show on Instagram: http://www.instagram.com/joie.de.vivek 
+	Email the show at: joiedevivek@gmail.com
+
+	&quot;Fanfare for the 916&quot; theme music by Moacir P. de Sá Pereira &amp; Dovydas Stalmokas</description>
+	    <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/778039522-joiedevivek-s3e15-social-distancing-from-the-playoffs.mp3" length="37417826"/>
+	    <itunes:image href="https://i1.sndcdn.com/artworks-RUbzir5lUbCX1pTy-xoikqQ-t500x500.jpg"/>
+	</item>
+
     </channel>
 </rss>
