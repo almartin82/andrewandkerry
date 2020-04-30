@@ -15,10 +15,11 @@
         <itunes:subtitle>A podcast appreciation experiment in the style of google reader.</itunes:subtitle>
         <itunes:author>Andrew Martin</itunes:author>
         <itunes:summary>
-        	I listen to a lot of podcasts.  I share a lot of podcasts.  What if there was a feed where I could 'retweet' podcast episodes that I thought were great?  This is that feed.
+        	Please Clap: A podcast appreciation experiment in the style of Google Reader (RIP).
+        	This feed has podcast 'retweets' representing the best / most interesting of what I've been listening to.
 		</itunes:summary>
         <content:encoded><![CDATA[
-<p>I listen to a lot of podcasts.  I share a lot of podcasts.  What if there was a feed where I could 'retweet' podcast episodes that I thought were great?  This is that feed.</p>
+<p>Please Clap: A podcast appreciation experiment in the style of Google Reader (RIP).<br>This feed has podcast 'retweets' representing the best / most interesting of what I've been listening to.</p>
 ]]></content:encoded>
         <itunes:owner>
             <itunes:name>Andrew Martin</itunes:name>
@@ -33,10 +34,9 @@
         </itunes:category>
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
 
-
         <!--The Weeds | Human Challenge Trials added 4/29/2020-->
         <item>
-            <title>A faster Covid-19 vaccine</title>
+            <title>The Weeds | A faster Covid-19 vaccine</title>
             <description>
 Jane, Dara, and Matt discuss the possibility of "human challenge trials" to speed vaccine development. Resources: "How Anthony Fauci Became America’s Doctor" by Michael Specter, The New Yorker "What Each Side of the COVID-19 Debate Should Understand About the Other" by Brian Doherty, Reason "Special Report: Peruvian coca farmers to Paris pushers, coronavirus upends global narcotics trade" by Gabriel Stargardter, Drazen Jorgic, Reuters White paper Hosts: Matt Yglesias (@mattyglesias), Senior Correspondent, Vox Jane Coaston (@cjane87), Senior politics correspondent, Vox Dara Lind (@DLind), Immigration reporter, ProPublica Credits: Jeff Geld, (@jeff_geld), Editor and Producer Want to support The Weeds? Please consider making a contribution to Vox: bit.ly/givepodcasts About Vox Vox is a news network that helps you cut through the noise and understand what's really driving the events in the headlines. Follow Us: Vox.com Facebook group: The Weeds Learn more about your ad choices. Visit megaphone.fm/adchoices
 </description>
@@ -62,7 +62,7 @@ Jane, Dara, and Matt discuss the possibility of "human challenge trials" to spee
 
     <!--Charlie Warzel - Pandemic Internet added 4/29/2020-->
 	<item>
-	    <title>Charlie Warzel on the Pandemic Internet</title>
+	    <title>Lawfare | Charlie Warzel on the Pandemic Internet</title>
 	    <itunes:title>Charlie Warzel on the Pandemic Internet</itunes:title>
 	    <pubDate>Thu, 23 Apr 2020 20:41:28 +0000</pubDate>
 	    <guid isPermaLink="false">
@@ -95,7 +95,7 @@ Jane, Dara, and Matt discuss the possibility of "human challenge trials" to spee
 
 	<item>
 	    <title>
-	Scott Gottlieb on how, and when, to end social distancing
+	Ezra Klein Show | Scott Gottlieb on how, and when, to end social distancing
 	</title>
 	    <description>
 	When will social distancing end? When will life return to “normal”? And what will it take to get there?  Scott Gottlieb is a physician and public health expert who served as Donald Trump’s first FDA commissioner, where he was the rare Trump appointee to win plaudits from both the left and the right. Now he’s a resident fellow at the American Enterprise Institute where he’s emerged as a leading voice on the coronavirus response.  Gottlieb is one of the lead authors of a comprehensive roadmap for what it would take to end social distancing and reopen the American economy. The report divides coronavirus response into four distinct phases (we are currently in phase one, which requires the strictest social distancing measures) and documents key “triggers” that states need to meet if they want to advance to a phase with less intense social distancing and a somewhat normal economy. It’s exactly what we need right now: a specific proposal for what comes next that we can actually analyze and debate.  Two themes drive this conversation. First, what are the challenges to simply getting out of lockdown? Why don’t we have enough tests yet? What’s stopping us from making more? And second, what does the world look like out of lockdown but before we get to a vaccine? What’s being imagined here isn’t a return to normal, either socially or economically, but a kind of limbo that it’s not clear we have the political will to sustain and that has few answers for the most vulnerable among us.  For more on this topic, I looked at not just the AEI plan but three others for this piece. I thought immersing myself in the plans to reopen the economy would be some comfort. Boy, was I wrong.  Resources: "A road map to re-opening" by Scott Gottlieb, Caitlin Rivers, Mark McClellan, Lauren Silvis, and Crystal Watson, AEI "I’ve read the plans to reopen the economy. They’re scary." by Ezra Klein, Vox The Weeds - How does this end? Want to contact the show? Reach out at ezrakleinshow@vox.com Please consider making a contribution to Vox to support this show: bit.ly/givepodcasts Your support will help us keep having ambitious conversations about big ideas. The Ezra Klein Show is a finalist for a Webby! Make sure to vote at https://bit.ly/TEKS-webby New to the show? Want to check out Ezra’s favorite episodes? Check out the Ezra Klein Show beginner’s guide (http://bit.ly/EKSbeginhere) Credits: Producer/Editor - Jeff Geld Researcher - Roge Karma Learn more about your ad choices. Visit megaphone.fm/adchoices
