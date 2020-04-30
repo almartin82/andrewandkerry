@@ -1,2 +1,59 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Please Clap</title><link>http://andrewandkerry.com/pleaseclap/feed.xml</link><description>(Retweets are not endorsements</description><atom:link href="http://andrewandkerry.com/pleaseclap/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://4.bp.blogspot.com/-UY2FEoROEcI/UBdOhFHUDHI/AAAAAAAABBA/3YB5u7Vkfz0/s640/COMPOSTER+CHILD+625.jpg</url><title>Please Clap</title><link>http://andrewandkerry.com/pleaseclap/feed.xml</link></image><language>en</language><lastBuildDate>Wed, 29 Apr 2020 03:29:07 +0000</lastBuildDate><item><title>The First Episode</title><description>Enjoy our first episode.</description><guid isPermaLink="false">https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_2MG.mp3</guid><enclosure url="https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_2MG.mp3" length="0" type="audio/mpeg"/></item></channel></rss>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <atom:link href="http://andrewandkerry.com/pleaseclap/feed.xml" rel="self" type="application/rss+xml" />
+        <title>Please Clap</title>
+        <link>https://almart.in</link>
+        <language>en</language>
+        <description>A podcast appreciation experiment in the style of google reader.
+		</description>
+        <image>
+            <url>https://4.bp.blogspot.com/-UY2FEoROEcI/UBdOhFHUDHI/AAAAAAAABBA/3YB5u7Vkfz0/s640/COMPOSTER+CHILD+625.jpg</url>
+            <title>Please Clap</title>
+            <link>https://almart.in</link>
+        </image>
+        <itunes:type>episodic</itunes:type>
+        <itunes:subtitle>A podcast appreciation experiment in the style of google reader.</itunes:subtitle>
+        <itunes:author>Andrew Martin</itunes:author>
+        <itunes:summary>
+        	I listen to a lot of podcasts.  I share a lot of podcasts.  What if there was a feed where I could 'retweet' podcast episodes that I thought were great?  This is that feed.
+		</itunes:summary>
+        <content:encoded><![CDATA[
+<p>I listen to a lot of podcasts.  I share a lot of podcasts.  What if there was a feed where I could 'retweet' podcast episodes that I thought were great?  This is that feed.</p>
+]]></content:encoded>
+        <itunes:owner>
+            <itunes:name>Andrew Martin</itunes:name>
+            <itunes:email>almartin@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://4.bp.blogspot.com/-UY2FEoROEcI/UBdOhFHUDHI/AAAAAAAABBA/3YB5u7Vkfz0/s640/COMPOSTER+CHILD+625.jpg" />
+        <itunes:category text="News">
+            <itunes:category text="Politics" />
+        </itunes:category>
+        <itunes:category text="Science">
+            <itunes:category text="Social Sciences" />
+        </itunes:category>
+        <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
+        <item>
+            <title>A faster Covid-19 vaccine</title>
+            <description>
+Jane, Dara, and Matt discuss the possibility of "human challenge trials" to speed vaccine development. Resources: "How Anthony Fauci Became America’s Doctor" by Michael Specter, The New Yorker "What Each Side of the COVID-19 Debate Should Understand About the Other" by Brian Doherty, Reason "Special Report: Peruvian coca farmers to Paris pushers, coronavirus upends global narcotics trade" by Gabriel Stargardter, Drazen Jorgic, Reuters White paper Hosts: Matt Yglesias (@mattyglesias), Senior Correspondent, Vox Jane Coaston (@cjane87), Senior politics correspondent, Vox Dara Lind (@DLind), Immigration reporter, ProPublica Credits: Jeff Geld, (@jeff_geld), Editor and Producer Want to support The Weeds? Please consider making a contribution to Vox: bit.ly/givepodcasts About Vox Vox is a news network that helps you cut through the noise and understand what's really driving the events in the headlines. Follow Us: Vox.com Facebook group: The Weeds Learn more about your ad choices. Visit megaphone.fm/adchoices
+</description>
+            <pubDate>Tue, 28 Apr 2020 18:29:00 -0000</pubDate>
+            <itunes:title>A faster Covid-19 vaccine</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>416</itunes:episode>
+            <itunes:author>Vox</itunes:author>
+            <itunes:subtitle>
+Jane, Dara, and Matt discuss the possibility of "human challenge trials" to speed vaccine development.
+</itunes:subtitle>
+            <itunes:summary>
+Jane, Dara, and Matt discuss the possibility of "human challenge trials" to speed vaccine development. Resources: "How Anthony Fauci Became America’s Doctor" by Michael Specter, The New Yorker "What Each Side of the COVID-19 Debate Should Understand About the Other" by Brian Doherty, Reason "Special Report: Peruvian coca farmers to Paris pushers, coronavirus upends global narcotics trade" by Gabriel Stargardter, Drazen Jorgic, Reuters White paper Hosts: Matt Yglesias (@mattyglesias), Senior Correspondent, Vox Jane Coaston (@cjane87), Senior politics correspondent, Vox Dara Lind (@DLind), Immigration reporter, ProPublica Credits: Jeff Geld, (@jeff_geld), Editor and Producer Want to support The Weeds? Please consider making a contribution to Vox: bit.ly/givepodcasts About Vox Vox is a news network that helps you cut through the noise and understand what's really driving the events in the headlines. Follow Us: Vox.com Facebook group: The Weeds Learn more about your ad choices. Visit megaphone.fm/adchoices
+</itunes:summary>
+            <content:encoded><![CDATA[
+<p>Jane, Dara, and Matt discuss the possibility of "human challenge trials" to speed vaccine development.</p><p><strong>Resources:</strong></p><p><a href="https://www.newyorker.com/magazine/2020/04/20/how-anthony-fauci-became-americas-doctor">"How Anthony Fauci Became America’s Doctor"</a> by Michael Specter, The New Yorker</p><p><a href="https://reason.com/2020/04/21/what-each-side-of-the-covid-19-debate-should-understand-about-the-other/">"What Each Side of the COVID-19 Debate Should Understand About the Other"</a> by Brian Doherty, Reason</p><p><a href="https://www.reuters.com/article/us-health-coronavirus-latam-narcotics-sp/special-report-peruvian-coca-farmers-to-paris-pushers-coronavirus-upends-global-narcotics-trade-idUSKCN2242ZI">"Special Report: Peruvian coca farmers to Paris pushers, coronavirus upends global narcotics trade"</a> by Gabriel Stargardter, Drazen Jorgic, Reuters</p><p><a href="https://www.nber.org/papers/w26988">White paper</a></p><p><br></p><p><strong>Hosts</strong>:</p><p>Matt Yglesias (<a href="https://twitter.com/mattyglesias?s=20">@mattyglesias</a>), Senior Correspondent, Vox</p><p>Jane Coaston (<a href="https://twitter.com/cjane87?s=20">@cjane87</a>), Senior politics correspondent, Vox</p><p>Dara Lind (<a href="https://twitter.com/DLind?s=20">@DLind</a>), Immigration reporter, ProPublica</p><p><br></p><p><strong>Credits:</strong></p><p>Jeff Geld<em>, (</em><a href="https://twitter.com/jeff_geld">@jeff_geld</a>), Editor and Producer</p><p><br></p><p>Want to support The Weeds? Please consider making a contribution to Vox: <a href="http://bit.ly/givepodcasts">bit.ly/givepodcasts</a></p><p><strong>About Vox</strong></p><p>Vox is a news network that helps you cut through the noise and understand what's really driving the events in the headlines.</p><p><strong>Follow Us</strong>: <a href="https://www.vox.com/future-perfect">Vox.com</a></p><p><strong>Facebook group:</strong> <a href="http://bit.ly/2XUajwq">The Weeds</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>
+]]></content:encoded>
+            <itunes:duration>3216</itunes:duration>
+            <guid isPermaLink="false"><![CDATA[ efcea770-00e2-11ea-a3c8-db73db8a9eab ]]></guid>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP6275769702.mp3" length="0" type="audio/mpeg" />
+        </item>
+    </channel>
+</rss>
