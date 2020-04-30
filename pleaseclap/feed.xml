@@ -34,6 +34,38 @@
         </itunes:category>
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
 
+
+        <!--Track Changes | User Friendly added 4/30/2020-->
+		<item>
+		    <title>Track Changes | User Friendly: A History </title>
+		    <itunes:title>User Friendly: A History </itunes:title>
+		    <pubDate>Tue, 17 Dec 2019 05:30:00 +0000</pubDate>
+		    <guid isPermaLink="false">
+		        <![CDATA[1c39321b-10bc-4d84-bc68-8765daffcb32]]>
+		    </guid>
+		    <link>
+		        <![CDATA[https://trackchanges.libsyn.com/user-friendly-a-history]]>
+		    </link>
+		    <itunes:image href="https://ssl-static.libsyn.com/p/assets/c/3/7/0/c370c26c053c36d8/tc-itunes_cover_1024.png" />
+		    <description>
+		        <![CDATA[<p><strong>Friction is introspection:</strong><span style= "font-weight: 400;">How did the iPhone come to feel like an intuitive thing to use? This week on Track Changes Paul and Rich sit down with UX designer Cliff Kuang and co-founder of Dalberg Design Robert Fabricant to talk about their new book</span><em><span style="font-weight: 400;">User Friendly: How the hidden rules of design are changing the way we live, work and play</span></em><span style="font-weight: 400;">. We discuss the history of the concept and how it’s become something that we demand yet often take for granted. We also chat about the greater paradigm shift that led to the popularity of user experience design and about why we should maybe start to question the view that ease equals progress. </span></p><p><span style= "font-weight: 400;"><strong>Links:</strong></span></p><p><a href= "https://www.penguin.co.uk/books/1107939/user-friendly/9780753556641"><span style="font-weight: 400;">User Friendly - Penguin Books </span></a></p><p><a href="http://www.dalbergdesign.com/"><span style= "font-weight: 400;">Dalberg Design </span></a></p><p><a href="https://www.frogdesign.com/"><span style= "font-weight: 400;">Frog Design</span></a></p><p><a href="https://en.wikipedia.org/wiki/Paul_Rand"><span style= "font-weight: 400;">Paul Rand - Wikipedia </span></a></p><p><a href="https://www.carbondesignsystem.com/"><span style= "font-weight: 400;">Carbon Design System </span></a></p><p><a href="https://fonts.google.com/featured/Plex"><span style= "font-weight: 400;">Plex - Google Fonts </span></a></p><p><a href= "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"><span style="font-weight: 400;"> Three Mile Island </span></a></p><p><a href= "https://en.wikipedia.org/wiki/Raymond_Loewy"><span style= "font-weight: 400;">Raymond Loewy - Wikipedia  </span></a></p><p><a href="https://www.ideo.com/"><span style= "font-weight: 400;">Ideo </span></a></p><p><a href= "https://en.wikipedia.org/wiki/Marvin_Minsky"><span style= "font-weight: 400;">Marvin Minski - Wikipedia</span></a></p><p><a href= "https://en.wikipedia.org/wiki/Douglas_Engelbart"><span style= "font-weight: 400;">Doug Englebart - Wikipedia </span></a></p><p><a href="https://developer.apple.com/healthkit/"><span style= "font-weight: 400;">Health Kit - Apple </span></a></p><p><a href= "https://www.nytimes.com/2019/11/12/technology/softbank-startups.html"><span style="font-weight: 400;">The Softbank Effect: How 100 Billion Left Workers in a Hole - New York Times </span></a></p><p><a href="https://www.softbank.jp/en/"><span style= "font-weight: 400;">Softbank</span></a></p>]]>
+		    </description>
+		    <content:encoded>
+		        <![CDATA[<p>Friction is introspection: How did the iPhone come to feel like an intuitive thing to use? This week on Track Changes Paul and Rich sit down with UX designer Cliff Kuang and co-founder of Dalberg Design Robert Fabricant to talk about their new book <em>User Friendly: How the hidden rules of design are changing the way we live, work and play</em>. We discuss the history of the concept and how it’s become something that we demand yet often take for granted. We also chat about the greater paradigm shift that led to the popularity of user experience design and about why we should maybe start to question the view that ease equals progress. </p><p>Links:</p><p><a href= "https://www.penguin.co.uk/books/1107939/user-friendly/9780753556641"> User Friendly - Penguin Books </a></p><p><a href="http://www.dalbergdesign.com/">Dalberg Design </a></p><p><a href="https://www.frogdesign.com/">Frog Design</a></p><p><a href="https://en.wikipedia.org/wiki/Paul_Rand">Paul Rand - Wikipedia </a></p><p><a href="https://www.carbondesignsystem.com/">Carbon Design System </a></p><p><a href="https://fonts.google.com/featured/Plex">Plex - Google Fonts </a></p><p><a href= "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"> Three Mile Island </a></p><p><a href= "https://en.wikipedia.org/wiki/Raymond_Loewy">Raymond Loewy - Wikipedia  </a></p><p><a href="https://www.ideo.com/">Ideo </a></p><p><a href= "https://en.wikipedia.org/wiki/Marvin_Minsky">Marvin Minski - Wikipedia</a></p><p><a href= "https://en.wikipedia.org/wiki/Douglas_Engelbart">Doug Englebart - Wikipedia </a></p><p><a href="https://developer.apple.com/healthkit/">Health Kit - Apple </a></p><p><a href= "https://www.nytimes.com/2019/11/12/technology/softbank-startups.html"> The Softbank Effect: How 100 Billion Left Workers in a Hole - New York Times </a></p><p><a href="https://www.softbank.jp/en/">Softbank</a></p>]]>
+		    </content:encoded>
+		    <enclosure length="40507475" type="audio/mpeg" url="https://traffic.libsyn.com/secure/trackchanges/TrackChanges_Episode198.mp3?dest-id=355950" />
+		    <itunes:duration>33:46</itunes:duration>
+		    <itunes:explicit>no</itunes:explicit>
+		    <itunes:keywords />
+		    <itunes:subtitle>
+		        <![CDATA[Paul and Rich discuss the evolution of user friendly tech with Cliff Kuang and Robert Fabricant ]]>
+		    </itunes:subtitle>
+		    <itunes:summary>Friction is introspection: This week on Track Changes Paul and Rich sit down with UX designer Cliff Kuang and co-founder of Dalberg Design Robert Fabricant to talk about their new book User Friendly. We discuss the history of the concept and how it’s become something that we demand yet often take for granted. We also chat about the greater paradigm shift that led to the popularity of user experience design and about why we should maybe start to question the view that ease equals progress. 
+		</itunes:summary>
+		    <itunes:episode>4</itunes:episode>
+		    <itunes:episodeType>full</itunes:episodeType>
+		</item>
+
         <!--The Weeds | Human Challenge Trials added 4/29/2020-->
         <item>
             <title>The Weeds | A faster Covid-19 vaccine</title>
