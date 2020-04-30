@@ -7,7 +7,7 @@
         <description>A podcast appreciation experiment in the style of google reader.
 		</description>
         <image>
-            <url>https://4.bp.blogspot.com/-UY2FEoROEcI/UBdOhFHUDHI/AAAAAAAABBA/3YB5u7Vkfz0/s640/COMPOSTER+CHILD+625.jpg</url>
+            <url>http://andrewandkerry.com/pleaseclap/cc.jpg</url>
             <title>Please Clap</title>
             <link>https://almart.in</link>
         </image>
@@ -24,7 +24,7 @@
             <itunes:name>Andrew Martin</itunes:name>
             <itunes:email>almartin@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://4.bp.blogspot.com/-UY2FEoROEcI/UBdOhFHUDHI/AAAAAAAABBA/3YB5u7Vkfz0/s640/COMPOSTER+CHILD+625.jpg" />
+        <itunes:image href="http://andrewandkerry.com/pleaseclap/cc.jpg" />
         <itunes:category text="News">
             <itunes:category text="Politics" />
         </itunes:category>
