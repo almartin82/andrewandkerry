@@ -7,7 +7,7 @@
         <description>A podcast appreciation experiment in the style of google reader.
 		</description>
         <image>
-            <url>http://andrewandkerry.com/pleaseclap/cc.jpg</url>
+            <url>http://andrewandkerry.com/pleaseclap/cc_logo.jpg</url>
             <title>Please Clap</title>
             <link>https://almart.in</link>
         </image>
@@ -24,7 +24,7 @@
             <itunes:name>Andrew Martin</itunes:name>
             <itunes:email>almartin@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://andrewandkerry.com/pleaseclap/cc.jpg" />
+        <itunes:image href="http://andrewandkerry.com/pleaseclap/cc_logo.jpg" />
         <itunes:category text="News">
             <itunes:category text="Politics" />
         </itunes:category>
@@ -60,37 +60,38 @@ Jane, Dara, and Matt discuss the possibility of "human challenge trials" to spee
         </item>
 
 
-    <!--JDV | Mailbag #5 added 4/29/2020-->
+    <!--Charlie Warzel - Pandemic Internet added 4/29/2020-->
 	<item>
-	    <guid isPermaLink="false">tag:soundcloud,2010:tracks/778039522</guid>
-	    <title>S3E15 - Social Distancing from the Playoffs</title>
-	    <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-	    <link>https://soundcloud.com/joiedevivek/s3e15-social-distancing-from-the-playoffs</link>
-	    <itunes:duration>00:19:18</itunes:duration>
-	    <itunes:author>Joie de Vivek</itunes:author>
-	    <itunes:explicit>yes</itunes:explicit>
-	    <itunes:summary>The Kings' playoff push and season ends abruptly, leaving Dave and Mike with a lot more time on their hands.
-
-	If you’re in NYC, come see Dave perform every other Sunday at UCB SubCulture: https://subculture.ucbtheatre.com/
-
-	Visit the homepage: https://joiedevivek.neocities.org/
-	Follow the show on Instagram: http://www.instagram.com/joie.de.vivek 
-	Email the show at: joiedevivek@gmail.com
-
-	&quot;Fanfare for the 916&quot; theme music by Moacir P. de Sá Pereira &amp; Dovydas Stalmokas</itunes:summary>
-	    <itunes:subtitle>The Kings' playoff push and season ends abruptly,…</itunes:subtitle>
-	    <description>The Kings' playoff push and season ends abruptly, leaving Dave and Mike with a lot more time on their hands.
-
-	If you’re in NYC, come see Dave perform every other Sunday at UCB SubCulture: https://subculture.ucbtheatre.com/
-
-	Visit the homepage: https://joiedevivek.neocities.org/
-	Follow the show on Instagram: http://www.instagram.com/joie.de.vivek 
-	Email the show at: joiedevivek@gmail.com
-
-	&quot;Fanfare for the 916&quot; theme music by Moacir P. de Sá Pereira &amp; Dovydas Stalmokas</description>
-	    <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/778039522-joiedevivek-s3e15-social-distancing-from-the-playoffs.mp3" length="37417826"/>
-	    <itunes:image href="https://i1.sndcdn.com/artworks-RUbzir5lUbCX1pTy-xoikqQ-t500x500.jpg"/>
+	    <title>Charlie Warzel on the Pandemic Internet</title>
+	    <itunes:title>Charlie Warzel on the Pandemic Internet</itunes:title>
+	    <pubDate>Thu, 23 Apr 2020 20:41:28 +0000</pubDate>
+	    <guid isPermaLink="false">
+	        <![CDATA[b84c049e-69b1-4cf1-b90f-db7a6fe716a3]]>
+	    </guid>
+	    <link>
+	        <![CDATA[http://lawfare.libsyn.com/charlie-warzel-on-the-pandemic-internet]]>
+	    </link>
+	    <itunes:image href="https://ssl-static.libsyn.com/p/assets/2/0/0/2/2002e09fb68936e9/Trial_1.png" />
+	    <description>
+	        <![CDATA[<p>On this episode of <em>Lawfare</em>'s Arbiters of Truth series on disinformation, Kate Klonick and Quinta Jurecic spoke with Charlie Warzel, an opinion writer at large at the New York Times. He’s written about the internet, disinformation, privacy and platform governance—and recently he’s been focusing on how these collide with COVID-19 and the uncertainty and anxiety of living through a pandemic. They talked about what the pandemic shows us about the role of big tech companies and how the spread of a deadly disease in the midst of a polarized information environment may be a worst-case scenario for disinformation.</p>]]>
+	    </description>
+	    <content:encoded>
+	        <![CDATA[<p>On this episode of <em>Lawfare</em>'s Arbiters of Truth series on disinformation, Kate Klonick and Quinta Jurecic spoke with Charlie Warzel, an opinion writer at large at the New York Times. He’s written about the internet, disinformation, privacy and platform governance—and recently he’s been focusing on how these collide with COVID-19 and the uncertainty and anxiety of living through a pandemic. They talked about what the pandemic shows us about the role of big tech companies and how the spread of a deadly disease in the midst of a polarized information environment may be a worst-case scenario for disinformation.</p>]]>
+	    </content:encoded>
+	    <enclosure length="69784063" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/lawfare/Charlie_Warzel_on_the_Pandemic_Internet.mp3?dest-id=88859" />
+	    <itunes:duration>48:28</itunes:duration>
+	    <itunes:explicit>no</itunes:explicit>
+	    <itunes:keywords />
+	    <itunes:subtitle>
+	        <![CDATA[On this episode of Lawfare's Arbiters of Truth series on disinformation, Kate Klonick and Quinta Jurecic spoke with Charlie Warzel, an opinion writer at large at the New York Times. He’s written about the internet, disinformation, privacy and...]]>
+	    </itunes:subtitle>
+	    <itunes:summary>On this episode of Lawfare's Arbiters of Truth series on disinformation, Kate Klonick and Quinta Jurecic spoke with Charlie Warzel, an opinion writer at large at the New York Times. They talked about what the COVID-19 pandemic shows us about the role of big tech companies and how the spread of a deadly disease in the midst of a polarized information environment may be a worst-case scenario for disinformation. </itunes:summary>
+	    <itunes:episodeType>full</itunes:episodeType>
+	    <itunes:author>The Lawfare Institute</itunes:author>
 	</item>
+
+
+
 
     </channel>
 </rss>
