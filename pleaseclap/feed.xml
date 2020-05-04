@@ -34,12 +34,32 @@
         </itunes:category>
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
 
+        <!--Longform | Kevin Kelly added 5/03/2020-->
+		<item>
+		    <title>Longform| Episode 376: Kevin Kelly</title>
+		    <guid isPermaLink="false">fb0f87da-3e07-440b-894b-8ab651d575b6</guid>
+		    <content:encoded>
+		        <![CDATA[<p>Kevin Kelly is a writer and a founding executive editor of <em>Wired Magazine</em>. He is the author of <em>What Technology Wants</em>, <em>Out of Control</em> and <em>The Inevitable: Understanding the Twelve Technological Forces That Will Shape Our Future</em>.</p><p><blockquote>“I always try to write about the future—and it became harder and harder because things would catch up so fast. If you read <em>Out of Control</em> now, I’ve heard that people say, ‘well, this is obvious.’ I have to tell you, it was dismissed as entirely pie-in-the-sky, wild-eyed craziness twenty-five years ago.”</blockquote></p><p><em>Thanks to <a href="http://mailchimp.com">Mailchimp</a> and <a href="https://longform.org/pitt-writers">Pitt Writers</a> for sponsoring this week's episode.</em></p><p><ol></p><p><li><a href="https://kk.org/">kk.org</a></li></p><p><li><a href="https://twitter.com/kevin2kelly">@kevin2kelly</a></li></p><p><li>[08:54] <a href="https://en.wikipedia.org/wiki/CoEvolution_Quarterly"><em>CoEvolution Quarterly</em></a></li></p><p><li>[09:06] <a href="https://kk.org/mt-files/writings/himalayas.pdf">“Low-Rent Himalayas”</a> (CoEvolution Quarterly • 1981) [pdf]</li></p><p><li>[18:06] <a href="https://kk.org/mt-files/writings/com_disease.pdf">“Information as a Communicable Disease”</a> (CoEvolution Quarterly • 1984) [pdf]</li></p><p><li>[22:30] <a href="https://sci-hub.tw/">sci-hub.tw</a></li></p><p><li>[28:28] <a href="https://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/"><em>Cool Tools: A Catalog of Possibilities</em></a> (Cool Tools Lab • 2013)</li></p><p><li>[31:31] <a href="https://en.wikipedia.org/wiki/Whole_Earth_Software_Catalog_and_Review"><em>Whole Earth Software Catalog and Review</em></a></li></p><p><li>[48:08] <a href="https://www.amazon.com/Out-Control-Biology-Machines-Economic/dp/0201483408/"><em>Out of Control: The New Biology of Machines, Social Systems, and the Economic World</em></a> (Basic Books • 1995)</li></p><p><li>[48:19] <a href="https://www.wired.com/1997/09/newrules/">“New Rules for the New Economy: Twelve Dependable Principles for Thriving in a Turbulent World”</a> (Wired • 1997)</li></p><p><li>[48:23] <a href="https://www.amazon.com/New-Rules-Economy-Strategies-Connected/dp/014028060X/"><em>New Rules for the New Economy: Ten Radical Strategies for a Connected World</em></a> (Penguin • 1999)</li></p>
+		]]>
+		    </content:encoded>
+		    <pubDate>Sun, 03 May 2020 20:08:00 +0000</pubDate>
+		    <author>podcast@longform.org (Longform)</author>
+		    <enclosure url="https://audio.simplecast.com/f797de2d.mp3" length="63595909" type="audio/mpeg"/>
+		   	<itunes:title>Longform | Episode 376: Kevin Kelly</itunes:title>
+		    <itunes:author>Longform</itunes:author>
+		    <itunes:image href="https://media.simplecast.com/episode/image/315661/1579723987-artwork.jpg"/>
+		    <itunes:duration>01:06:12</itunes:duration>
+		    <itunes:keywords></itunes:keywords>
+		    <itunes:explicit>no</itunes:explicit>
+		    <itunes:episodeType>full</itunes:episodeType>
+		    <itunes:episode>5</itunes:episode>
+		</item>
 
         <!--Track Changes | User Friendly added 4/30/2020-->
 		<item>
 		    <title>Track Changes | User Friendly: A History </title>
 		    <itunes:title>Track Changes | User Friendly: A History </itunes:title>
-		    <pubDate>Tue, 17 Dec 2019 05:30:00 +0000</pubDate>
+		    <pubDate>Thu, 30 Apr 2020 05:30:00 +0000</pubDate>
 		    <guid isPermaLink="false">
 		        <![CDATA[1c39321b-10bc-4d84-bc68-8765daffcb32]]>
 		    </guid>
@@ -156,7 +176,6 @@ Jane, Dara, and Matt discuss the possibility of "human challenge trials" to spee
 	    </guid>
 	    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3106594249.mp3" length="0" type="audio/mpeg"/>
 	</item>
-
 
 
     </channel>
