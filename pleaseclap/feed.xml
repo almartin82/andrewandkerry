@@ -34,9 +34,39 @@
         </itunes:category>
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
 
+
+        <!--Track Changes | Time to Build added 5/10/2020-->
+		<item>
+			<title>Track Changes | Is it Time to Build? Part 2: How to Get What We Need in a Marketplace Society</title>
+			<itunes:title>Track Changes | Is it Time to Build? Part 2: How to Get What We Need in a Marketplace Society</itunes:title>
+			<pubDate>Sun, 10 May 2020 04:30:00 +0000</pubDate>
+			<guid isPermaLink="false">
+				<![CDATA[3ca923cd-56d1-43fc-875e-753a99159f43]]>
+			</guid>
+			<link>
+				<![CDATA[https://trackchanges.libsyn.com/social-momentum-how-can-we-build-things-we-need-in-a-marketplace-society]]>
+			</link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/c/3/7/0/c370c26c053c36d8/tc-itunes_cover_1024.png" />
+			<description>
+				<![CDATA[<p><span style="font-weight: 400;">Paul and Rich have a follow up discussion about Marc Andreessen’s newest article and ask the important question: How can we connect and empower people to create crucial tools for society when the industry has become so transactional? Are we able to create necessary social momentum when there’s no money involved? Paul puts out a plea for Postlight to create a software development kit for education at a platform level. It remains to be seen if VCs are ready to shift their focus to do the same. (Perhaps that’s an idea for Marc Andreessen to think about!)</span></p><p></p><p><strong>Links</strong></p><p><a href= "https://a16z.com/2020/04/18/its-time-to-build/"><span style= "font-weight: 400;">‘It’s Time To Build’ by Marc Andreessen</span></a></p><p><a href="https://a16z.com/author/marc-andreessen/"><span style= "font-weight: 400;">Marc Andreessen</span></a></p><p><a href="https://a16z.com/"><span style= "font-weight: 400;">Andreessen Horowitz</span></a></p><p><a href="https://reactjs.org/"><span style= "font-weight: 400;">React</span></a></p><p><a href="https://www.bell-labs.com/"><span style= "font-weight: 400;">Bell Labs</span></a></p><p><a href="https://www.parc.com/"><span style= "font-weight: 400;">Xerox Parc</span></a></p><p><a href="https://www.khanacademy.org/"><span style= "font-weight: 400;">Khan Academy</span></a></p><p><a href="https://www.netflix.com/ca/title/80203144"><span style= "font-weight: 400;">The Last Dance</span></a></p><p><a href="https://www.classdojo.com/"><span style= "font-weight: 400;">Class Dojo</span></a></p><p><a href="https://classroom.google.com/u/0/h"><span style= "font-weight: 400;">Google Classroom</span></a></p><p></p>]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Paul and Rich have a follow up discussion about Marc Andreessen’s newest article and ask the important question: How can we connect and empower people to create crucial tools for society when the industry has become so transactional? Are we able to create necessary social momentum when there’s no money involved? Paul puts out a plea for Postlight to create a software development kit for education at a platform level. It remains to be seen if VCs are ready to shift their focus to do the same. (Perhaps that’s an idea for Marc Andreessen to think about!)</p><p></p><p>Links</p><p><a href= "https://a16z.com/2020/04/18/its-time-to-build/">‘It’s Time To Build’ by Marc Andreessen</a></p><p><a href="https://a16z.com/author/marc-andreessen/">Marc Andreessen</a></p><p><a href="https://a16z.com/">Andreessen Horowitz</a></p><p><a href="https://reactjs.org/">React</a></p><p><a href="https://www.bell-labs.com/">Bell Labs</a></p><p><a href="https://www.parc.com/">Xerox Parc</a></p><p><a href="https://www.khanacademy.org/">Khan Academy</a></p><p><a href="https://www.netflix.com/ca/title/80203144">The Last Dance</a></p><p><a href="https://www.classdojo.com/">Class Dojo</a></p><p><a href="https://classroom.google.com/u/0/h">Google Classroom</a></p><p></p>]]>
+			</content:encoded>
+			<enclosure length="25632308" type="audio/mpeg" url="https://traffic.libsyn.com/secure/trackchanges/TrackChanges_Episode219.mp3?dest-id=355950" />
+			<itunes:duration>21:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle>
+				<![CDATA[Paul and Rich have a follow up discussion about Marc Andreessen’s newest article and ask the important question: How can we connect and empower people to create crucial tools for society when the industry has become so transactional? Are we able to...]]>
+			</itunes:subtitle>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+
         <!--Longform | Kevin Kelly added 5/03/2020-->
 		<item>
-		    <title>Longform| Episode 376: Kevin Kelly</title>
+		    <title>Longform | Episode 376: Kevin Kelly</title>
 		    <guid isPermaLink="false">fb0f87da-3e07-440b-894b-8ab651d575b6</guid>
 		    <content:encoded>
 		        <![CDATA[<p>Kevin Kelly is a writer and a founding executive editor of <em>Wired Magazine</em>. He is the author of <em>What Technology Wants</em>, <em>Out of Control</em> and <em>The Inevitable: Understanding the Twelve Technological Forces That Will Shape Our Future</em>.</p><p><blockquote>“I always try to write about the future—and it became harder and harder because things would catch up so fast. If you read <em>Out of Control</em> now, I’ve heard that people say, ‘well, this is obvious.’ I have to tell you, it was dismissed as entirely pie-in-the-sky, wild-eyed craziness twenty-five years ago.”</blockquote></p><p><em>Thanks to <a href="http://mailchimp.com">Mailchimp</a> and <a href="https://longform.org/pitt-writers">Pitt Writers</a> for sponsoring this week's episode.</em></p><p><ol></p><p><li><a href="https://kk.org/">kk.org</a></li></p><p><li><a href="https://twitter.com/kevin2kelly">@kevin2kelly</a></li></p><p><li>[08:54] <a href="https://en.wikipedia.org/wiki/CoEvolution_Quarterly"><em>CoEvolution Quarterly</em></a></li></p><p><li>[09:06] <a href="https://kk.org/mt-files/writings/himalayas.pdf">“Low-Rent Himalayas”</a> (CoEvolution Quarterly • 1981) [pdf]</li></p><p><li>[18:06] <a href="https://kk.org/mt-files/writings/com_disease.pdf">“Information as a Communicable Disease”</a> (CoEvolution Quarterly • 1984) [pdf]</li></p><p><li>[22:30] <a href="https://sci-hub.tw/">sci-hub.tw</a></li></p><p><li>[28:28] <a href="https://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/"><em>Cool Tools: A Catalog of Possibilities</em></a> (Cool Tools Lab • 2013)</li></p><p><li>[31:31] <a href="https://en.wikipedia.org/wiki/Whole_Earth_Software_Catalog_and_Review"><em>Whole Earth Software Catalog and Review</em></a></li></p><p><li>[48:08] <a href="https://www.amazon.com/Out-Control-Biology-Machines-Economic/dp/0201483408/"><em>Out of Control: The New Biology of Machines, Social Systems, and the Economic World</em></a> (Basic Books • 1995)</li></p><p><li>[48:19] <a href="https://www.wired.com/1997/09/newrules/">“New Rules for the New Economy: Twelve Dependable Principles for Thriving in a Turbulent World”</a> (Wired • 1997)</li></p><p><li>[48:23] <a href="https://www.amazon.com/New-Rules-Economy-Strategies-Connected/dp/014028060X/"><em>New Rules for the New Economy: Ten Radical Strategies for a Connected World</em></a> (Penguin • 1999)</li></p>
