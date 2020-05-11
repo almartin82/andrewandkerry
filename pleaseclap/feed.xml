@@ -34,6 +34,45 @@
         </itunes:category>
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
 
+        <!--Track Changes | Time to Build added 5/10/2020-->
+		<item>
+			<guid isPermaLink="false">0d454a19-1964-48c8-9773-81a949f70c3b</guid>
+			<title>a16z | Undruggable Drugs</title>
+			<description>
+				<![CDATA[
+		<p>In this episode of the a16z Podcast, we take a deep dive into the world of drug development—specifically "undruggable drugs": a category of protein, protein family or even piece of RNA that’s so difficult to target that many researchers don’t even want to touch it. </p><p>Jay Bradner, President of the Novartis Institute for BioMedical Research, shares with a16z General Partners Jorge Conde and Vijay Pande, and a16z's Hanne Tidnam, all the new tools, technologies and breakthroughs which are causing the science of therapeutics to explode in some of these areas where it's been incredibly difficult (even impossible) in the past. From molecular glues to cell and gene therapies, Bradner shares the behind-the-scenes science stories of what it really takes to make a new drug that shatters the category of an "undruggable" target. </p>
+		]]>
+			</description>
+			<pubDate>Sun, 10 May 2020 20:54:35 +0000</pubDate>
+			<author>
+		content+a16zpodcast@a16z.com (Jay Bradner, Jorge Conde, Hanne Tidnam)
+		</author>
+			<link>
+		https://a16z.simplecast.com/episodes/undruggable-drugs-jay-bradner-rsnbORoU
+		</link>
+			<content:encoded>
+				<![CDATA[
+		<p>In this episode of the a16z Podcast, we take a deep dive into the world of drug development—specifically "undruggable drugs": a category of protein, protein family or even piece of RNA that’s so difficult to target that many researchers don’t even want to touch it. </p><p>Jay Bradner, President of the Novartis Institute for BioMedical Research, shares with a16z General Partners Jorge Conde and Vijay Pande, and a16z's Hanne Tidnam, all the new tools, technologies and breakthroughs which are causing the science of therapeutics to explode in some of these areas where it's been incredibly difficult (even impossible) in the past. From molecular glues to cell and gene therapies, Bradner shares the behind-the-scenes science stories of what it really takes to make a new drug that shatters the category of an "undruggable" target. </p>
+		]]>
+			</content:encoded>
+			<enclosure length="20636048" type="audio/mpeg" url="https://cdn.simplecast.com/audio/3f86df/3f86df7b-51c6-4101-88a2-550dba782de8/4b6d2e9e-3733-48f4-8e02-9fa48246d080/jay-bradner-upload-mix-new-intro_tc.mp3?aid=rss_feed"/>
+			<itunes:title>a16z | Undruggable Drugs</itunes:title>
+			<itunes:author>Jay Bradner, Jorge Conde, Hanne Tidnam</itunes:author>
+			<itunes:image href="https://cdn.simplecast.com/images/449082bc-9b68-42d6-b779-a9712463c543/621ec8b4-de58-41c1-b305-bc9982cf53c4/3000x3000/istock-1138371379.jpg?aid=rss_feed"/>
+			<itunes:duration>00:28:40</itunes:duration>
+			<itunes:summary>
+		with @jaybrander, @JorgeCondeBio, @vijaypande, @omnivorousread A deep dive into the world of drug development—specifically "undruggable drugs": a category of protein, protein family or even piece of RNA that’s so difficult to target that many researchers don’t even want to touch it—with Jay Bradner, President of the Novartis Institute for BioMedical Research.
+		</itunes:summary>
+			<itunes:subtitle>
+		with @jaybrander, @JorgeCondeBio, @vijaypande, @omnivorousread A deep dive into the world of drug development—specifically "undruggable drugs": a category of protein, protein family or even piece of RNA that’s so difficult to target that many researchers don’t even want to touch it—with Jay Bradner, President of the Novartis Institute for BioMedical Research.
+		</itunes:subtitle>
+			<itunes:keywords>
+		science, therapeutics, gene therapy, research, drug development
+		</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>7</itunes:episode>
+		</item>
 
         <!--Track Changes | Time to Build added 5/10/2020-->
 		<item>
