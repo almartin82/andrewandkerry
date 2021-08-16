@@ -35,6 +35,23 @@
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
 
 
+	    <!--World of DaaS - Susan Athey - added 8/15/2021-->
+	    <item>
+		    <itunes:title>World of DaaS | Susan Athey: Tech Economists, Machine Learning, and Causation</itunes:title>
+		    <title>World of DaaS | Susan Athey: Tech Economists, Machine Learning, and Causation</title>
+		    <description><![CDATA[<p><a href='https://twitter.com/Susan_Athey?s=20'>Susan Athey</a>, The Economics of Technology Professor at Stanford&apos;s Graduate Business School, talks with <em>World of DaaS</em> host Auren Hoffman. Susan serves as the Founding Director at Stanford&apos;s Golub Capital Social Impact Lab, using technology and social science to improve the effectiveness of social sector organizations, and is a Research Associate at the National Bureau of Economic Research. Athey was the first Chief Economist at Microsoft. She&apos;s also on the Board of Directors of Expedia, Lending Club, Ripple, Rover, Turo, and more. Susan and Auren dive into the role of tech economists, machine learning, and causal inference. <br/><br/>World of DaaS is brought to you by SafeGraph. For more episodes, visit <a href='https://www.safegraph.com/podcasts'>safegraph.com/podcasts</a><br/><br/>You can find Auren Hoffman (CEO of SafeGraph) on Twitter at <a href='https://twitter.com/auren?s=20'>@auren</a></p>]]></description>
+		    <content:encoded><![CDATA[<p><a href='https://twitter.com/Susan_Athey?s=20'>Susan Athey</a>, The Economics of Technology Professor at Stanford&apos;s Graduate Business School, talks with <em>World of DaaS</em> host Auren Hoffman. Susan serves as the Founding Director at Stanford&apos;s Golub Capital Social Impact Lab, using technology and social science to improve the effectiveness of social sector organizations, and is a Research Associate at the National Bureau of Economic Research. Athey was the first Chief Economist at Microsoft. She&apos;s also on the Board of Directors of Expedia, Lending Club, Ripple, Rover, Turo, and more. Susan and Auren dive into the role of tech economists, machine learning, and causal inference. <br/><br/>World of DaaS is brought to you by SafeGraph. For more episodes, visit <a href='https://www.safegraph.com/podcasts'>safegraph.com/podcasts</a><br/><br/>You can find Auren Hoffman (CEO of SafeGraph) on Twitter at <a href='https://twitter.com/auren?s=20'>@auren</a></p>]]></content:encoded>
+		    <itunes:author>SafeGraph</itunes:author>
+		    <enclosure url="https://chrt.fm/track/GB4AE5/www.buzzsprout.com/1783651/8941499-susan-athey-tech-economists-machine-learning-and-causation.mp3" length="39779444" type="audio/mpeg" />
+		    <guid isPermaLink="false">Buzzsprout-8941499</guid>
+		    <pubDate>Sun, 15 Aug 2021 05:00:00 -0400</pubDate>
+		    <itunes:duration>3309</itunes:duration>
+		    <itunes:keywords></itunes:keywords>
+		    <itunes:episode>9</itunes:episode>
+		    <itunes:episodeType>full</itunes:episodeType>
+		    <itunes:explicit>false</itunes:explicit>
+		</item>
+
 	    <!--Not Boring - Own the Internet - added 8/14/2021-->
 	    <item>
 	      <title>Not Boring | Own the Internet: The Bull Case for Ethereum</title>
