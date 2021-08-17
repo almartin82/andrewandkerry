@@ -35,6 +35,62 @@
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
 
 
+	    <!--Swyx Mixtape- Warren Spector - added 8/17/2021-->
+
+        <item>
+			<title>Swyx Mixtape | 6 + 2 + 1 [Warren Spector, designer of Deus Ex] </title>
+			<itunes:episode>11</itunes:episode>
+			<itunes:title>6 + 2 + 1 [Warren Spector, designer of Deus Ex] </itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:block>No</itunes:block>
+			<googleplay:block>No</googleplay:block>
+			<guid isPermaLink="false">9ce58fcf-6b16-4702-a34c-6ed37ccf7bfa</guid>
+			<link>https://share.transistor.fm/s/0acd4ded</link>
+			<description>
+			<![CDATA[<p>Source: <a href="https://www.youtube.com/watch?v=tffX3VljTtI">https://www.youtube.com/watch?v=tffX3VljTtI</a> (11 mins in)</p><p>Warren Spector's 6 + 2 + 1:</p><ul>
+			<li>What's the core idea?</li>
+			<li>Why do this game? Commercial hit? No choice?</li>
+			<li>What are the dev challenges? Hard is ok, impossible not good</li>
+			<li>Is this idea well-suited to games? Games are about DOING, not BEING</li>
+			<li>What's the fantasy? If no fantasy, bad idea</li>
+			<li>What are the verbs? Games are about Doing</li>
+			<li>
+			<strong>Has anyone done this before?</strong> If no - could be a bad idea, or good, just be careful</li>
+			<li>
+			<strong>What's the ONE thing?</strong> ONE new thing that hasn't been done before</li>
+			<li>
+			<strong>Do you have something to say?</strong> An issue/theme to explore</li>
+			</ul>]]>
+			</description>
+			<content:encoded>
+			<![CDATA[<p>Source: <a href="https://www.youtube.com/watch?v=tffX3VljTtI">https://www.youtube.com/watch?v=tffX3VljTtI</a> (11 mins in)</p><p>Warren Spector's 6 + 2 + 1:</p><ul>
+			<li>What's the core idea?</li>
+			<li>Why do this game? Commercial hit? No choice?</li>
+			<li>What are the dev challenges? Hard is ok, impossible not good</li>
+			<li>Is this idea well-suited to games? Games are about DOING, not BEING</li>
+			<li>What's the fantasy? If no fantasy, bad idea</li>
+			<li>What are the verbs? Games are about Doing</li>
+			<li>
+			<strong>Has anyone done this before?</strong> If no - could be a bad idea, or good, just be careful</li>
+			<li>
+			<strong>What's the ONE thing?</strong> ONE new thing that hasn't been done before</li>
+			<li>
+			<strong>Do you have something to say?</strong> An issue/theme to explore</li>
+			</ul>]]>
+			</content:encoded>
+			<pubDate>Tue, 17 Aug 2021 21:43:41 -0400</pubDate>
+			<author>Swyx</author>
+			<enclosure url="https://media.transistor.fm/0acd4ded/bd02bed3.mp3" length="6880736" type="audio/mpeg"/>
+			<itunes:author>Swyx</itunes:author>
+			<itunes:image href="https://images.transistor.fm/file/transistor/images/show/17631/full_1626845778-artwork.jpg"/>
+			<itunes:duration>455</itunes:duration>
+			<itunes:summary>When to quit a sure thing to work on a risky thing.</itunes:summary>
+			<itunes:subtitle>When to quit a sure thing to work on a risky thing.</itunes:subtitle>
+			<itunes:keywords>learning, technology, business</itunes:keywords>
+			<itunes:explicit>No</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+        </item>
+
 	    <!--The Weeds- Spencer Ackerman - added 8/16/2021-->
 
 		<item>
