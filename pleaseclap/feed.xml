@@ -34,13 +34,29 @@
         </itunes:category>
         <itunes:new-feed-url>http://andrewandkerry.com/pleaseclap/feed.xml</itunes:new-feed-url>
 
+	    <!--Chapo Trap House- MyPillow Guy - added 8/18/2021-->
+		<item>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/1099059202</guid>
+			<title>Chapo Trap House | MyPillow Guy, MyPillow Guy and Me (8/2/21)</title>
+			<itunes:>Chapo Trap House | MyPillow Guy, MyPillow Guy and Me (8/2/21)</itunes:title>
+			<pubDate>Wed, 18 Aug 2021 03:38:28 +0000</pubDate>
+			<link>https://soundcloud.com/chapo-trap-house/546-mypillow-guy-mypillow-guy-and-me-8221</link>
+			<itunes:episode>12</itunes:episode>
+			<itunes:duration>01:18:32</itunes:duration>
+			<itunes:author>Chapo Trap House</itunes:author>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:summary>We start today looking at Democrats’ feckless failure to extend the eviction moratorium. That being a fairly dismal topic, we try to lighten things up with two reading series checking in with how some old friends of the show are handling their new post-election lives in DC.</itunes:summary>
+			<itunes:subtitle>We start today looking at Democrats’ feckless fai…</itunes:subtitle>
+			<description>We start today looking at Democrats’ feckless failure to extend the eviction moratorium. That being a fairly dismal topic, we try to lighten things up with two reading series checking in with how some old friends of the show are handling their new post-election lives in DC.</description>
+			<enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1099059202-chapo-trap-house-546-mypillow-guy-mypillow-guy-and-me-8221.mp3" length="75394874"/>
+			<itunes:image href="https://i1.sndcdn.com/artworks-qq8TfNuyNyMWwmc6-lRhAQw-t3000x3000.jpg"/>
+    	</item>
 
 	    <!--Swyx Mixtape- Warren Spector - added 8/17/2021-->
-
         <item>
 			<title>Swyx Mixtape | 6 + 2 + 1 [Warren Spector, designer of Deus Ex] </title>
 			<itunes:episode>11</itunes:episode>
-			<itunes:title>6 + 2 + 1 [Warren Spector, designer of Deus Ex] </itunes:title>
+			<itunes:title>Swyx Mixtape | 6 + 2 + 1 [Warren Spector, designer of Deus Ex] </itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:block>No</itunes:block>
 			<googleplay:block>No</googleplay:block>
@@ -92,7 +108,6 @@
         </item>
 
 	    <!--The Weeds- Spencer Ackerman - added 8/16/2021-->
-
 		<item>
 			<title>The Weeds | (Spencer Ackerman Interview) Reign of Terror</title>
 			<description>Matt is joined by reporter Spencer Ackerman, author of the new book Reign of Terror. Ackerman explains the ways in which America’s approach to domestic white terrorism differs from its approach to international threats. They discuss the treatment of Timothy McVeigh after the Oklahoma City bombing, and the way in which it primed the political and cultural response to 9/11 and the War on Terror. Ackerman also argues that the unlawful and immoral approach of the government laid the groundwork for Trump's presidency. Resources: Reign of Terror by Spencer Ackerman (Penguin Random House; Aug 10, 2021) The Jakarta Method by Vincent Bevins (Public Affairs; May 19, 2020) "Second Inaugural Address" by George W. Bush (January 20, 2005) State of Exception by Giorgio Agamben (Chicago: The University of Chicago Press; 2005) Guest: Spencer Ackerman (@attackerman), author, reporter, and publisher of Forever Wars on Substack, contributing editor at the Daily Beast. Host: Matt Yglesias (@mattyglesias), Slowboring.com Credits: Ness Smith-Savedoff, Producer & Engineer Erikk Geannikis, Producer, Talk Podcasts As the Biden administration gears up, we'll help you understand this unprecedented burst of policymaking. Sign up for The Weeds newsletter each Friday: vox.com/weeds-newsletter. The Weeds is a Vox Media Podcast Network production. Want to support The Weeds? Please consider making a contribution to Vox: bit.ly/givepodcasts About Vox Vox is a news network that helps you cut through the noise and understand what's really driving the events in the headlines. Follow Us: Vox.com Facebook group: The Weeds Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
