@@ -1,2 +1,2 @@
 # andrewandkerry
-github pages management for andrewandkerry.com
+why not roll your own wedding website?!
